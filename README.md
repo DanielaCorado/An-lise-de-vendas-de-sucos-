@@ -8,9 +8,9 @@ O objetivo do projeto é realizar alguns relatórios de vendas sobre um banco de
 
 ## Índice 
 
-* [Introdução](##Introdução)
-* [Relatório 1](##Relatório-1)
-* [Relatório 2](##Relatório-2)
+* [Introdução](#Introdução)
+* [Relatório 1](#Relatório-1)
+* [Relatório 2](#Relatório-2)
 
 ## Introdução
 
