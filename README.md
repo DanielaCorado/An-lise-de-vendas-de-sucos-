@@ -8,11 +8,11 @@ O objetivo do projeto é realizar alguns relatórios de vendas sobre um banco de
 
 ## Índice 
 
-* [Introdução](##-Introdução:)
-* [Relatório 1](##-Relatório-1:)
-* [Relatório 2](##-Relatório-2:)
+* [Introdução](##Introdução)
+* [Relatório 1](##Relatório-1)
+* [Relatório 2](##Relatório-2)
 
-## Introdução:
+## Introdução
 
 Primeiramente analisei o banco de dados, visualizando todas as tabelas e mapeando a relação entre elas, usando os comandos:
 
@@ -22,7 +22,7 @@ Essa é uma das maneiras de conhecer o seu banco de dados. Mas existe também um
 
 ![2](https://user-images.githubusercontent.com/74689039/172687955-2957bbb4-e786-486e-ac4d-db7443cd390b.png)
 
-## Relatório 1:
+## Relatório 1
 
 O primeiro relatório busca classificar as vendas como válidas ou inválidas, essa classificação se dá de acordo com a quantidade de produto vendido, uma venda é considerada válida quando o volume de vendas não ultrapassa o limite de vendas pré estabelecido, caso contrário a venda é inválida.
 Para gerar esse relatório verificamos quais tabelas contém os dados necessários para a análise:
@@ -54,7 +54,7 @@ Resposta obtida:
 
 ![r2](https://user-images.githubusercontent.com/74689039/172688385-3269405a-06ba-4b64-a3e3-46b0d5e26bf3.png)
 
-## Relatório 2:
+## Relatório 2
 
 O cliente solicitou um segundo relatório com os dados das vendas de acordo com cada sabor no ano de 2016, assim como no primeiro relatório comecei com a vizualização das tabelas que contém os dados de interesse:
 
